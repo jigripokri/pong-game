@@ -31,7 +31,7 @@ Simply open `index.html` in your browser to play locally.
 
 ## Live Demo
 
-[Play the game online!](https://your-vercel-url.vercel.app)
+[Play the game online!](https://jigripokri.github.io/pong-game/)
 
 ---
 
